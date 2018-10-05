@@ -1,6 +1,7 @@
 林花谢了春红 太匆匆 无奈朝来寒雨晚来风
 include stdio.h
 <<<<<<< HEAD
+<<<<<<< HEAD
 ptintf "hello world"
 kkllkklk
 mmmmm
@@ -8,3 +9,6 @@ lllllll
 =======
 ptintf "hello world"
 >>>>>>> ae4a6df4c2bf5a44f6b685b6755aecccc17ec687
+=======
+ptintf "hello world"
+>>>>>>> f3b90116f5d4e92e2a7489e6f2aa5f96d66eb5b9
