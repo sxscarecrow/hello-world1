@@ -9,3 +9,5 @@ llll
 =======
 ptintf "hello world"
 >>>>>>> 69277422960603cd41e05c9a412e9f059efbbb91
+0000000
+999999
